@@ -1,0 +1,337 @@
+2025-12-12 16:52:21,282 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 16:52:21,283 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 16:59:05,687 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 16:59:05,687 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 17:05:42,983 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 17:05:42,986 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 17:08:45,405 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 17:08:45,405 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 17:09:25,448 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 17:09:25,448 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 17:10:39,622 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 17:10:39,623 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 17:12:35,402 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 17:12:35,403 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 17:13:44,516 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 17:13:44,516 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 17:19:33,231 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 17:19:33,231 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 17:19:36,785 INFO 127.0.0.1 - - [12/Dec/2025 17:19:36] "GET / HTTP/1.1" 200 -
+2025-12-12 17:19:45,056 INFO 127.0.0.1 - - [12/Dec/2025 17:19:45] "POST /predict HTTP/1.1" 200 -
+2025-12-12 17:19:45,100 INFO 127.0.0.1 - - [12/Dec/2025 17:19:45] "GET /results HTTP/1.1" 200 -
+2025-12-12 17:27:20,782 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 17:27:20,786 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 17:27:23,213 INFO 127.0.0.1 - - [12/Dec/2025 17:27:23] "GET / HTTP/1.1" 200 -
+2025-12-12 17:27:30,853 INFO 127.0.0.1 - - [12/Dec/2025 17:27:30] "POST /predict HTTP/1.1" 200 -
+2025-12-12 17:27:30,895 INFO 127.0.0.1 - - [12/Dec/2025 17:27:30] "GET /results HTTP/1.1" 200 -
+2025-12-12 17:27:54,885 INFO 127.0.0.1 - - [12/Dec/2025 17:27:54] "POST /predict HTTP/1.1" 200 -
+2025-12-12 17:27:54,917 INFO 127.0.0.1 - - [12/Dec/2025 17:27:54] "GET /results HTTP/1.1" 200 -
+2025-12-12 17:32:03,120 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 17:32:03,121 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 17:32:41,543 INFO 127.0.0.1 - - [12/Dec/2025 17:32:41] "GET / HTTP/1.1" 200 -
+2025-12-12 17:32:50,654 INFO 127.0.0.1 - - [12/Dec/2025 17:32:50] "POST /predict HTTP/1.1" 200 -
+2025-12-12 17:32:50,684 INFO 127.0.0.1 - - [12/Dec/2025 17:32:50] "GET /results HTTP/1.1" 200 -
+2025-12-12 17:33:41,020 INFO 127.0.0.1 - - [12/Dec/2025 17:33:41] "POST /predict HTTP/1.1" 200 -
+2025-12-12 17:34:56,725 INFO 127.0.0.1 - - [12/Dec/2025 17:34:56] "POST /predict HTTP/1.1" 200 -
+2025-12-12 17:34:56,752 INFO 127.0.0.1 - - [12/Dec/2025 17:34:56] "GET /results HTTP/1.1" 200 -
+2025-12-12 17:35:17,713 INFO 127.0.0.1 - - [12/Dec/2025 17:35:17] "POST /predict HTTP/1.1" 200 -
+2025-12-12 17:35:17,745 INFO 127.0.0.1 - - [12/Dec/2025 17:35:17] "GET /results HTTP/1.1" 200 -
+2025-12-12 17:37:18,288 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 17:37:18,288 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 17:37:22,521 INFO 127.0.0.1 - - [12/Dec/2025 17:37:22] "GET /health HTTP/1.1" 200 -
+2025-12-12 17:37:24,329 INFO 127.0.0.1 - - [12/Dec/2025 17:37:24] "POST /predict HTTP/1.1" 200 -
+2025-12-12 17:37:39,189 INFO 127.0.0.1 - - [12/Dec/2025 17:37:39] "GET /health HTTP/1.1" 200 -
+2025-12-12 17:37:40,937 INFO 127.0.0.1 - - [12/Dec/2025 17:37:40] "POST /predict HTTP/1.1" 200 -
+2025-12-12 17:38:15,242 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 17:38:15,243 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 17:39:25,440 INFO 127.0.0.1 - - [12/Dec/2025 17:39:25] "GET / HTTP/1.1" 200 -
+2025-12-12 17:39:34,235 INFO 127.0.0.1 - - [12/Dec/2025 17:39:34] "POST /predict HTTP/1.1" 200 -
+2025-12-12 17:39:34,271 INFO 127.0.0.1 - - [12/Dec/2025 17:39:34] "GET /results HTTP/1.1" 200 -
+2025-12-12 17:42:32,859 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 17:42:32,860 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 17:42:36,423 INFO 127.0.0.1 - - [12/Dec/2025 17:42:36] "GET / HTTP/1.1" 200 -
+2025-12-12 17:42:45,624 INFO 127.0.0.1 - - [12/Dec/2025 17:42:45] "POST /predict HTTP/1.1" 200 -
+2025-12-12 17:42:45,662 INFO 127.0.0.1 - - [12/Dec/2025 17:42:45] "GET /results HTTP/1.1" 200 -
+2025-12-12 17:45:57,855 INFO 127.0.0.1 - - [12/Dec/2025 17:45:57] "GET /results HTTP/1.1" 200 -
+2025-12-12 17:46:07,626 INFO 127.0.0.1 - - [12/Dec/2025 17:46:07] "POST /predict HTTP/1.1" 200 -
+2025-12-12 17:46:07,653 INFO 127.0.0.1 - - [12/Dec/2025 17:46:07] "GET /results HTTP/1.1" 200 -
+2025-12-12 17:49:33,216 INFO 127.0.0.1 - - [12/Dec/2025 17:49:33] "POST /predict HTTP/1.1" 200 -
+2025-12-12 17:49:33,244 INFO 127.0.0.1 - - [12/Dec/2025 17:49:33] "GET /results HTTP/1.1" 200 -
+2025-12-12 17:50:02,491 INFO 127.0.0.1 - - [12/Dec/2025 17:50:02] "POST /predict HTTP/1.1" 200 -
+2025-12-12 17:50:02,518 INFO 127.0.0.1 - - [12/Dec/2025 17:50:02] "GET /results HTTP/1.1" 200 -
+2025-12-12 18:01:36,410 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 18:01:36,410 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 18:01:42,035 INFO 127.0.0.1 - - [12/Dec/2025 18:01:42] "GET / HTTP/1.1" 200 -
+2025-12-12 18:01:50,271 INFO 127.0.0.1 - - [12/Dec/2025 18:01:50] "POST /predict HTTP/1.1" 200 -
+2025-12-12 18:01:50,301 INFO 127.0.0.1 - - [12/Dec/2025 18:01:50] "GET /results HTTP/1.1" 200 -
+2025-12-12 18:01:52,475 INFO 127.0.0.1 - - [12/Dec/2025 18:01:52] "GET /?id=2c8b7f1b-fa30-4725-a3d1-478354472070&vscodeBrowserReqId=1765558912463 HTTP/1.1" 200 -
+2025-12-12 18:02:05,127 INFO 127.0.0.1 - - [12/Dec/2025 18:02:05] "GET / HTTP/1.1" 200 -
+2025-12-12 18:02:12,904 INFO 127.0.0.1 - - [12/Dec/2025 18:02:12] "POST /predict HTTP/1.1" 200 -
+2025-12-12 18:02:12,934 INFO 127.0.0.1 - - [12/Dec/2025 18:02:12] "GET /results HTTP/1.1" 200 -
+2025-12-12 18:02:21,367 INFO 127.0.0.1 - - [12/Dec/2025 18:02:21] "POST /predict HTTP/1.1" 200 -
+2025-12-12 18:02:21,398 INFO 127.0.0.1 - - [12/Dec/2025 18:02:21] "GET /results HTTP/1.1" 200 -
+2025-12-12 18:02:28,388 ERROR Prediction failed for test.pdf: Traceback (most recent call last):
+  File "C:\Users\R I B\Desktop\projet ner\.venv\Lib\site-packages\pdf2image\pdf2image.py", line 602, in pdfinfo_from_path
+    raise ValueError
+ValueError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\R I B\Desktop\projet ner\scripts\ocr.py", line 24, in extract_text_from_pdf
+    images = convert_from_path(pdf_path, poppler_path=POPPLER_PATH)
+  File "C:\Users\R I B\Desktop\projet ner\.venv\Lib\site-packages\pdf2image\pdf2image.py", line 127, in convert_from_path
+    page_count = pdfinfo_from_path(
+                 ~~~~~~~~~~~~~~~~~^
+        pdf_path, userpw, ownerpw, poppler_path=poppler_path
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )["Pages"]
+    ^
+  File "C:\Users\R I B\Desktop\projet ner\.venv\Lib\site-packages\pdf2image\pdf2image.py", line 611, in pdfinfo_from_path
+    raise PDFPageCountError(
+        f"Unable to get page count.\n{err.decode('utf8', 'ignore')}"
+    )
+pdf2image.exceptions.PDFPageCountError: Unable to get page count.
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\R I B\Desktop\projet ner\scripts\predict.py", line 171, in predict_pipeline
+    text = extract_text_from_pdf(pdf_path)
+  File "C:\Users\R I B\Desktop\projet ner\scripts\ocr.py", line 34, in extract_text_from_pdf
+    raise RuntimeError(f"Failed to process PDF with OCR. Original error: {e}")
+RuntimeError: Failed to process PDF with OCR. Original error: Unable to get page count.
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\R I B\Desktop\projet ner\scripts\app.py", line 125, in upload_and_predict
+    results = predict_pipeline(filepath)
+  File "C:\Users\R I B\Desktop\projet ner\scripts\predict.py", line 173, in predict_pipeline
+    raise RuntimeError(f"OCR step failed: {e}")
+RuntimeError: OCR step failed: Failed to process PDF with OCR. Original error: Unable to get page count.
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+
+2025-12-12 18:02:28,391 INFO 127.0.0.1 - - [12/Dec/2025 18:02:28] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-12-12 18:02:35,696 ERROR Prediction failed for test.pdf: Traceback (most recent call last):
+  File "C:\Users\R I B\Desktop\projet ner\.venv\Lib\site-packages\pdf2image\pdf2image.py", line 602, in pdfinfo_from_path
+    raise ValueError
+ValueError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\R I B\Desktop\projet ner\scripts\ocr.py", line 24, in extract_text_from_pdf
+    images = convert_from_path(pdf_path, poppler_path=POPPLER_PATH)
+  File "C:\Users\R I B\Desktop\projet ner\.venv\Lib\site-packages\pdf2image\pdf2image.py", line 127, in convert_from_path
+    page_count = pdfinfo_from_path(
+                 ~~~~~~~~~~~~~~~~~^
+        pdf_path, userpw, ownerpw, poppler_path=poppler_path
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )["Pages"]
+    ^
+  File "C:\Users\R I B\Desktop\projet ner\.venv\Lib\site-packages\pdf2image\pdf2image.py", line 611, in pdfinfo_from_path
+    raise PDFPageCountError(
+        f"Unable to get page count.\n{err.decode('utf8', 'ignore')}"
+    )
+pdf2image.exceptions.PDFPageCountError: Unable to get page count.
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\R I B\Desktop\projet ner\scripts\predict.py", line 171, in predict_pipeline
+    text = extract_text_from_pdf(pdf_path)
+  File "C:\Users\R I B\Desktop\projet ner\scripts\ocr.py", line 34, in extract_text_from_pdf
+    raise RuntimeError(f"Failed to process PDF with OCR. Original error: {e}")
+RuntimeError: Failed to process PDF with OCR. Original error: Unable to get page count.
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\R I B\Desktop\projet ner\scripts\app.py", line 125, in upload_and_predict
+    results = predict_pipeline(filepath)
+  File "C:\Users\R I B\Desktop\projet ner\scripts\predict.py", line 173, in predict_pipeline
+    raise RuntimeError(f"OCR step failed: {e}")
+RuntimeError: OCR step failed: Failed to process PDF with OCR. Original error: Unable to get page count.
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+
+2025-12-12 18:02:35,699 INFO 127.0.0.1 - - [12/Dec/2025 18:02:35] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-12-12 18:04:26,250 INFO 127.0.0.1 - - [12/Dec/2025 18:04:26] "POST /predict HTTP/1.1" 200 -
+2025-12-12 18:29:50,670 INFO 127.0.0.1 - - [12/Dec/2025 18:29:50] "POST /predict HTTP/1.1" 200 -
+2025-12-12 18:35:18,392 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 18:35:18,392 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 18:35:20,881 INFO 127.0.0.1 - - [12/Dec/2025 18:35:20] "GET / HTTP/1.1" 200 -
+2025-12-12 18:35:28,945 INFO 127.0.0.1 - - [12/Dec/2025 18:35:28] "POST /predict HTTP/1.1" 200 -
+2025-12-12 18:35:28,979 INFO 127.0.0.1 - - [12/Dec/2025 18:35:28] "GET /results HTTP/1.1" 200 -
+2025-12-12 18:35:37,788 INFO 127.0.0.1 - - [12/Dec/2025 18:35:37] "POST /predict HTTP/1.1" 200 -
+2025-12-12 18:35:37,814 INFO 127.0.0.1 - - [12/Dec/2025 18:35:37] "GET /results HTTP/1.1" 200 -
+2025-12-12 18:37:24,457 INFO 127.0.0.1 - - [12/Dec/2025 18:37:24] "POST /predict HTTP/1.1" 200 -
+2025-12-12 18:38:36,757 INFO 127.0.0.1 - - [12/Dec/2025 18:38:36] "POST /predict HTTP/1.1" 200 -
+2025-12-12 19:36:17,948 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 19:36:17,948 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 19:36:23,037 INFO 127.0.0.1 - - [12/Dec/2025 19:36:23] "GET / HTTP/1.1" 200 -
+2025-12-12 19:36:23,278 INFO 127.0.0.1 - - [12/Dec/2025 19:36:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-12 19:36:32,076 INFO 127.0.0.1 - - [12/Dec/2025 19:36:32] "POST /predict HTTP/1.1" 200 -
+2025-12-12 19:45:55,711 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 19:45:55,712 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 19:45:58,233 INFO 127.0.0.1 - - [12/Dec/2025 19:45:58] "GET / HTTP/1.1" 200 -
+2025-12-12 19:46:03,901 INFO 127.0.0.1 - - [12/Dec/2025 19:46:03] "POST /predict HTTP/1.1" 200 -
+2025-12-12 19:48:53,672 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 19:48:53,672 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 19:48:57,298 INFO 127.0.0.1 - - [12/Dec/2025 19:48:57] "GET / HTTP/1.1" 200 -
+2025-12-12 19:49:03,715 INFO 127.0.0.1 - - [12/Dec/2025 19:49:03] "POST /predict HTTP/1.1" 200 -
+2025-12-12 19:54:44,401 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 19:54:44,401 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 19:54:47,909 INFO 127.0.0.1 - - [12/Dec/2025 19:54:47] "GET / HTTP/1.1" 200 -
+2025-12-12 19:54:55,145 INFO 127.0.0.1 - - [12/Dec/2025 19:54:55] "POST /predict HTTP/1.1" 200 -
+2025-12-12 19:56:00,047 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 19:56:00,048 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 19:56:02,700 INFO 127.0.0.1 - - [12/Dec/2025 19:56:02] "GET / HTTP/1.1" 200 -
+2025-12-12 19:56:02,933 INFO 127.0.0.1 - - [12/Dec/2025 19:56:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-12 19:56:09,664 INFO 127.0.0.1 - - [12/Dec/2025 19:56:09] "POST /predict HTTP/1.1" 200 -
+2025-12-12 20:00:11,153 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 20:00:11,153 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 20:00:14,074 INFO 127.0.0.1 - - [12/Dec/2025 20:00:14] "GET / HTTP/1.1" 200 -
+2025-12-12 20:00:21,567 INFO 127.0.0.1 - - [12/Dec/2025 20:00:21] "POST /predict HTTP/1.1" 200 -
+2025-12-12 20:00:28,640 INFO 127.0.0.1 - - [12/Dec/2025 20:00:28] "POST /predict HTTP/1.1" 200 -
+2025-12-12 20:00:39,699 ERROR Prediction failed for test.pdf: Traceback (most recent call last):
+  File "C:\Users\R I B\Desktop\projet ner\.venv\Lib\site-packages\pdf2image\pdf2image.py", line 602, in pdfinfo_from_path
+    raise ValueError
+ValueError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\R I B\Desktop\projet ner\scripts\ocr.py", line 24, in extract_text_from_pdf
+    images = convert_from_path(pdf_path, poppler_path=POPPLER_PATH)
+  File "C:\Users\R I B\Desktop\projet ner\.venv\Lib\site-packages\pdf2image\pdf2image.py", line 127, in convert_from_path
+    page_count = pdfinfo_from_path(
+                 ~~~~~~~~~~~~~~~~~^
+        pdf_path, userpw, ownerpw, poppler_path=poppler_path
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )["Pages"]
+    ^
+  File "C:\Users\R I B\Desktop\projet ner\.venv\Lib\site-packages\pdf2image\pdf2image.py", line 611, in pdfinfo_from_path
+    raise PDFPageCountError(
+        f"Unable to get page count.\n{err.decode('utf8', 'ignore')}"
+    )
+pdf2image.exceptions.PDFPageCountError: Unable to get page count.
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\R I B\Desktop\projet ner\scripts\predict.py", line 171, in predict_pipeline
+    Steps:
+    
+  File "C:\Users\R I B\Desktop\projet ner\scripts\ocr.py", line 34, in extract_text_from_pdf
+    raise RuntimeError(f"Failed to process PDF with OCR. Original error: {e}")
+RuntimeError: Failed to process PDF with OCR. Original error: Unable to get page count.
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\R I B\Desktop\projet ner\scripts\app.py", line 125, in upload_and_predict
+    results = predict_pipeline(filepath)
+  File "C:\Users\R I B\Desktop\projet ner\scripts\predict.py", line 173, in predict_pipeline
+    2. Classifies the document type.
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: OCR step failed: Failed to process PDF with OCR. Original error: Unable to get page count.
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+
+2025-12-12 20:00:39,701 INFO 127.0.0.1 - - [12/Dec/2025 20:00:39] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-12-12 20:03:23,128 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 20:03:23,129 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 20:03:25,640 INFO 127.0.0.1 - - [12/Dec/2025 20:03:25] "GET / HTTP/1.1" 200 -
+2025-12-12 20:03:31,272 INFO 127.0.0.1 - - [12/Dec/2025 20:03:31] "POST /predict HTTP/1.1" 200 -
+2025-12-12 20:04:25,539 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 20:04:25,540 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 20:04:37,998 INFO 127.0.0.1 - - [12/Dec/2025 20:04:37] "GET / HTTP/1.1" 200 -
+2025-12-12 20:04:47,364 INFO 127.0.0.1 - - [12/Dec/2025 20:04:47] "POST /predict HTTP/1.1" 200 -
+2025-12-12 20:04:54,517 INFO 127.0.0.1 - - [12/Dec/2025 20:04:54] "POST /predict HTTP/1.1" 200 -
+2025-12-12 20:11:16,666 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 20:11:16,667 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 20:11:23,471 INFO 127.0.0.1 - - [12/Dec/2025 20:11:23] "GET / HTTP/1.1" 200 -
+2025-12-12 20:11:23,708 INFO 127.0.0.1 - - [12/Dec/2025 20:11:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-12 20:11:29,909 INFO 127.0.0.1 - - [12/Dec/2025 20:11:29] "POST /predict HTTP/1.1" 200 -
+2025-12-12 20:21:38,984 INFO 127.0.0.1 - - [12/Dec/2025 20:21:38] "[33mGET /debug_run?file=YourFile.pdf HTTP/1.1[0m" 404 -
+2025-12-12 20:30:36,281 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 20:30:36,282 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 20:30:39,291 INFO 127.0.0.1 - - [12/Dec/2025 20:30:39] "GET / HTTP/1.1" 200 -
+2025-12-12 20:30:45,215 INFO 127.0.0.1 - - [12/Dec/2025 20:30:45] "POST /predict HTTP/1.1" 200 -
+2025-12-12 20:31:34,140 INFO 127.0.0.1 - - [12/Dec/2025 20:31:34] "GET / HTTP/1.1" 200 -
+2025-12-12 20:31:46,547 INFO 127.0.0.1 - - [12/Dec/2025 20:31:46] "POST /predict HTTP/1.1" 200 -
+2025-12-12 20:32:10,881 INFO 127.0.0.1 - - [12/Dec/2025 20:32:10] "POST /predict HTTP/1.1" 200 -
+2025-12-12 20:41:13,362 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-12 20:41:13,363 INFO [33mPress CTRL+C to quit[0m
+2025-12-12 20:41:17,212 INFO 127.0.0.1 - - [12/Dec/2025 20:41:17] "GET / HTTP/1.1" 200 -
+2025-12-12 20:41:17,427 INFO 127.0.0.1 - - [12/Dec/2025 20:41:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-12 20:41:31,534 INFO 127.0.0.1 - - [12/Dec/2025 20:41:31] "POST /predict HTTP/1.1" 200 -

@@ -1,0 +1,8 @@
+pytesseract
+pdf2image
+scikit-learn
+spacy
+pandas
+PyMuPDF
+Pillow
+sklearn-crfsuite

@@ -1,0 +1,8 @@
+Flask
+joblib
+pandas
+pdf2image
+pytesseract
+scikit-learn
+sklearn-crfsuite
+spacy
